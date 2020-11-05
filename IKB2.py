@@ -87,7 +87,7 @@ print  """
 \033[1;97m
 
 jalan("\033[1;96m•◈•────────────•◈•\033[1;99mIMTIAZBALOCH\033[1;99m•◈•────────────•◈•")                        
-jalan("\033[1;96m  ___ _    __   __  _  ___  ___ ")  
+jalan("\033[1;96m___ _    __   __  _  ___  ___ ")  
 jalan("\033[1;96m FB ACCOUNT CLONE ALL COUNTRY")
 jalan("\033[1;96m IKB BALOCH
 jalan("\033[1;96m TOOL BY IMTIAZ BALOCH
