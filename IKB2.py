@@ -86,15 +86,15 @@ print  """
 \033[1;97m
 \033[1;97m
 
-jalan("\033[1;96m•◈•────────────•◈•\033[1;99mIMTIAZBALOCH\033[1;99m•◈•────────────•◈•")                        
-jalan("\033[1;96m___ _    __   __  _  ___  ___ ")  
+jalan("\033[1;96m \033[1;99mIMTIAZBALOCH\033[1;99m•◈•────────────•◈•")                        
+jalan("\033[1;96m. IKB 
 jalan("\033[1;96m FB ACCOUNT CLONE ALL COUNTRY")
 jalan("\033[1;96m IKB BALOCH
 jalan("\033[1;96m TOOL BY IMTIAZ BALOCH
 jalan("\033[1;97m INDIAN USER OR OTHER COUNTRY USE ANY PROXY TO CLONE")
 jalan("\033[1;97m WIFI USER USE USA PROXY TO CLONE")
-jalan("\033[1;93m Welcome to IMTIAZ BALOCH")
-jalan("\033[1;96m•◈•──────────•◈•\033[1;96mIMTIAZBALOCH\033[1;96m•◈•──────────•◈•")
+jalan("\033[1;93m Welcome to IMTIAZ BALOCH
+jalan("\033[1;96m \033[1;96mIMTIAZBALOCH\033[1;96m•◈•──────────•◈•")
 
 CorrectUsername = "IMTIAZ"
 CorrectPassword = "BALOCH"
